@@ -14,7 +14,7 @@
 
 📫 How to reach me? **sumantyadav3086@gmail.com**
 
-⚡ Fun fact about me: **Introvert trying to be an Extrovert**
+⚡ Always remember: **Trust that every challenge has a blessing hidden behind it.**
 <br><br>
 
 <div align="center"> 
