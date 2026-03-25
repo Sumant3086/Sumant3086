@@ -1,68 +1,69 @@
-<h1 align="center">👋 Hey there! I'm Sumant, a passionate developer 🚀<br> 
+<h1 align="center">Hi, I'm Sumant Yadav 👋</h1>
+<h3 align="center">Fullstack Developer | Competitive Programmer</h3>
 
-🪲 Perpetual Learner 🪲</h1>
+<div align="center">
+  <a href="https://linkedin.com/in/sumant3086" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://leetcode.com/u/sumantyadav3086/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+  <a href="mailto:sumantyadav3086@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
+<br>
 
 <div>
-  <img align="right" alt="Coding" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZwZWdmMWJ5NHA5eWYyemNra3JpeG01dTR1cTkwdTg1Z3k2ZzZ4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
+  <img align="right" alt="Coding GIF" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZwZWdmMWJ5NHA5eWYyemNra3JpeG01dTR1cTkwdTg1Z3k2ZzZ4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 </div>
 
-👨‍🏭 I’m currently pursuing **B.Tech CSE From Lovely Professional University**
+### 👨‍💻 About Me
+- 🎓 Pursuing B.Tech in Computer Science and Engineering at Lovely Professional University.
+- 💻 Experienced Fullstack developer specializing in Node.js, Express, TypeScript, and MongoDB.
+- 🏆 Secured 1st Rank in Infineon Hackathon & achieved Codeforces Specialist (1592).
+- 🚀 Passionate about building scalable backend services, cloud-native deployments, and solving complex algorithmic challenges.
+- 📫 Reach out to me at: <b>sumantyadav3086@gmail.com</b>
 
-🌱 I’m currently learning **DSA & Web Development**
+<br>
 
-🙌 I’m looking to collaborate on **Web Projects**
+### ⚒️ Languages, Frameworks & Tools
 
-📫 How to reach me? **sumantyadav3086@gmail.com**
-
-⚡ Always remember: **Trust that every challenge has a blessing hidden behind it.**
-<br><br>
-
-<div align="center"> 
-  <a href="https://linkedin.com/in/Sumant3086" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<p align="left">
+  <b>Backend & Databases</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,ts,graphql,postgres,mongodb,mysql,redis" />
   </a>
-  <a href="https://leetcode.com/sumantyadav3086" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+</p>
+
+<p align="left">
+  <b>DevOps & Cloud</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,git,github" />
   </a>
-</div>
+</p>
 
----
+<p align="left">
+  <b>Languages & Frontend</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,html,css,tailwind" />
+  </a>
+</p>
 
-## ⚒️ Languages, Frameworks & Tools ⚒️
+<br>
 
-### 🔹 Frontend
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![React](https://skillicons.dev/icons?i=react) ![Angular](https://skillicons.dev/icons?i=angular) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-
-### 🔹 Backend
-![NodeJS](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![PHP](https://skillicons.dev/icons?i=php)
-
-### 🔹 Databases
-![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
-
-### 🔹 Programming Languages
-![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python)
-
-### 🔹 Tools & Other Technologies
-![VSCode](https://skillicons.dev/icons?i=vscode) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Figma](https://skillicons.dev/icons?i=figma)
-
----
-
-## 📊 Stats
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumant3086&show_icons=true&theme=radical&layout=compact" alt="Sumant's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumant3086&show_icons=true&theme=radical&layout=compact" alt="GitHub Stats">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumant3086&layout=compact&theme=radical" alt="Top Languages">
   <br>
-  <img src="https://streak-stats.demolab.com?user=Sumant3086&theme=radical&hide_border=true" alt="GitHub Streak Stats">
+  <img src="https://streak-stats.demolab.com?user=Sumant3086&theme=radical&hide_border=true" alt="Streak Stats">
 </div>
 
----
+<br>
 
-## 🐍 My Contributions
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumant3086&theme=radical" alt="GitHub Contribution Graph">
+  <img src="https://komarev.com/ghpvc/?username=Sumant3086&color=blue" alt="Profile views">
 </div>
-
----
-
-<img src="https://komarev.com/ghpvc/?username=Sumant3086&color=blue" alt="Profile views">
