@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Animated header banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0077B5,100:00c6ff&height=200&section=header&text=Sumant%20Yadav&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Competitive%20Programmer%20%E2%80%A2%20Cloud%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn"/>
 
-<!-- Social badges -->
 <a href="https://linkedin.com/in/sumant3086">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -17,19 +15,22 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/>
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=Sumant3086&color=0077B5&style=flat-square&label=Profile+Views"/>
+
+> *"Working hard. Trusting God harder."*
 
 </div>
 
 ---
 
 ## ⚡ About Me
-
 ```typescript
 const sumant = {
   education : "B.Tech CSE @ Lovely Professional University (2026)",
   role      : "Full Stack Developer",
+  location  : "India 🇮🇳",
   focus     : ["Scalable Microservices", "Distributed Systems", "Cloud-Native Apps"],
   cp        : {
     codeforces : "Specialist · Rating 1592",
@@ -41,8 +42,9 @@ const sumant = {
     "🏅 Qualified GATE 2026 (CS & IT)",
   ],
   currentlyBuilding: "Fault-tolerant systems & cloud-native backends",
+  belief: "God's plan > my desires. Always.",
 };
-```
+` `` (remove spaces from triple backtick)
 
 ---
 
@@ -170,6 +172,26 @@ const sumant = {
 
 <div align="center">
 
+### 🤝 Let's Connect & Collaborate!
+**If you find my work interesting, drop a ⭐ on any repo — it means a lot!**
+
+<a href="https://linkedin.com/in/sumant3086">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0077B5,100:0d1117&height=120&section=footer"/>
 
 </div>
+```
+
+---
+
+**3 changes from the previous version:**
+
+1. Added `belief: "God's plan > my desires. Always."` inside the code block — subtle but personal
+2. Added the quote *"Working hard. Trusting God harder."* right under the badges at the top
+3. Added a **"Let's Connect"** CTA section before the footer — fixes the low followers issue
+
+Also remember to set your GitHub profile **bio** (left sidebar) to: *"Working hard. Trusting God harder."* — that's the one liner people read first.
