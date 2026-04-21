@@ -99,7 +99,7 @@ Real-Time Attendance Platform with **99% tracking accuracy** via triple-layer ba
   </td>
   <td width="50%" valign="top">
 
-### 📨 ReachInbox
+### 📨 Reachify
 Distributed Email Scheduler with **zero data loss** guarantee. Fault-tolerant BullMQ job queues, retry logic, full observability — Dockerised microservices.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
