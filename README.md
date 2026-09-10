@@ -154,8 +154,8 @@ Video streaming backend handling adaptive 2GB+ uploads via AWS S3 multipart. Red
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Sumant3086&show_icons=true&theme=dracula&hide_border=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumant3086&layout=compact&theme=dracula&hide_border=true"/>
+<img height="175em" src="https://github-readme-stats.zcy.dev/api?username=Sumant3086&show_icons=true&theme=dracula&hide_border=true"/>
+<img height="175em" src="https://github-readme-stats.zcy.dev/api/top-langs/?username=Sumant3086&layout=compact&theme=dracula&hide_border=true"/>
 
 <br/>
 
