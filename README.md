@@ -1,99 +1,110 @@
 <div align="center">
 
-<!-- ANIMATED WAVE HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:2d1b4e,100:7b2ff7&height=230&section=header&text=Sumant%20Yadav&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=building%20things%20that%20break%20%E2%80%A2%20fixing%20them%20%E2%80%A2%20repeat&descAlignY=58&descSize=16&animation=fadeIn&fontAlignX=50"/>
+<!-- NEON ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:1a0033,50:5b0e91,75:00c2ff,100:ff00c8&height=260&section=header&text=SUMANT%20YADAV&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=full%20stack%20developer%20//%20competitive%20programmer%20//%20system%20breaker%20%26%20fixer&descAlignY=58&descSize=15&animation=fadeIn&fontAlignX=50"/>
 
+<!-- GLITCHY TERMINAL TYPING -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=B983FF&center=true&vCenter=true&width=650&lines=console.log(%22it's+giving+full-stack%22)%3B;fixing+bugs+I+wrote+at+3am;CF+Specialist+%7C+ICPC+2025+Rank+473;shipping+%3E+overthinking;Working+hard.+Trusting+God+harder.+%F0%9F%99%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=750&lines=%3E+booting+sumant.exe...;%3E+loading+9%2C000%2B+lines+of+production+code;%3E+CF+Specialist+%7C+ICPC+2025+Global+Rank+473;%3E+status%3A+shipping%2C+not+sleeping;%3E+Working+hard.+Trusting+God+harder.+%F0%9F%99%8F" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://linkedin.com/in/sumant3086"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/u/sumantyadav3086/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/sumant3086"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-<a href="mailto:sumantyadav3086@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sumant3086"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00c2ff"/></a>
+<a href="https://leetcode.com/u/sumantyadav3086/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=ffa116"/></a>
+<a href="https://codeforces.com/profile/sumant3086"><img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=ff00c8"/></a>
+<a href="mailto:sumantyadav3086@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff4d4d"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sumant3086&color=B983FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Sumant3086&color=00c2ff&style=for-the-badge&label=SYSTEM+SCANS"/>
 
 </div>
 
 ---
 
-## 🫡 the origin story
+<div align="center">
 
-no cap, this all started with a `console.log("Hello World")` that took 3 hours to run because of a missing semicolon. we don't talk about that day. we grew from it.
+### 💻 boot sequence
+
+</div>
+
+```yaml
+sumant@dev-machine ~ % neofetch
+
+           .---.
+          /     \        sumant@dev-machine
+          \.@-@./        -------------------
+          /`\_/`\        OS: SumantOS 26.06 LTS "Grind Edition"
+         //  _  \\       Host: Lovely Professional University
+        | \     )|_      Kernel: C++ / TypeScript / Node.js
+       /`\_`>  <_/ \     Uptime: 3+ years shipping code
+       \__/'---'\__/     Shell: zsh --theme oh-my-genz
+                          DE: VS Code (47 tabs open, don't judge)
+                          CPU: caffeine-powered, 100% load
+                          Memory: 8GB RAM / 12GB anxiety
+                          Packages: no bluffing, only verified claims
+```
+
+---
+
+## ⚡ character stats
 
 ```typescript
 const sumant = {
-  status        : "B.Tech CSE @ Lovely Professional University, Class of 2026",
-  currentRole   : "Full Stack Developer",
-  vibe          : "no bluffing, just build" ,
-  redFlags      : "none, only red squiggly lines in VS Code",
-  cp            : {
-    codeforces : "Specialist · 1592 rating 📈",
-    leetcode   : "top 5% · 1500+ problems, no shortcuts",
-    icpc       : "2025 Global Rank 473 🌍",
+  class          : "Full Stack Developer",
+  education      : "B.Tech CSE @ Lovely Professional University, Class of 2026",
+  alignment      : "chaotic good, ships on time anyway",
+  specialSkills  : {
+    codeforces   : "Specialist · 1592 rating 📈",
+    leetcode     : "Top 5% · 1500+ problems, zero shortcuts",
+    icpc         : "2025 Global Rank 473 🌍",
   },
-  wins          : ["🥇 1st Place — Infineon Hackathon", "🏅 GATE 2026 Qualified (CS & IT)"],
-  currentlyBuilding : "fault-tolerant systems that don't fall over when I look at them",
-  belief        : "God's plan > my desires. always. 🙏",
+  achievements   : ["🥇 1st Place — Infineon Hackathon", "🏅 GATE 2026 Qualified (CS & IT)"],
+  currentQuest   : "building fault-tolerant systems that don't tap out under load",
+  cheatCode      : "none. no bluffing, just reps.",
+  faith          : "God's plan > my desires. always. 🙏",
 };
 ```
 
 ---
 
-## 📈 the developer arc (character development, fr)
+## 🧬 evolution log
 
 <table>
-<tr><td width="15%" align="center"><b>Phase 1</b><br/>🐣</td>
-<td width="85%">
-<b>"it works on my machine"</b><br/>
-copy-pasted from StackOverflow, didn't understand a single line, shipped it anyway. peak confidence, zero context.
+<tr><td width="14%" align="center"><b>LV.1</b><br/>🐣</td>
+<td width="86%">
+<b>"it works on my machine"</b> — copy-pasted from Stack Overflow, didn't understand a single line, shipped anyway. peak confidence, zero context.
 </td></tr>
-<tr><td align="center"><b>Phase 2</b><br/>🔥</td>
-<td>
-<b>"why is nothing working"</b><br/>
-discovered debugging. discovered that 90% of bugs are just typos. discovered rage.
-</td></tr>
-<tr><td align="center"><b>Phase 3</b><br/>🧠</td>
-<td>
-<b>"let me actually learn DSA"</b><br/>
-locked in on Codeforces and LeetCode. became CF Specialist. touched grass occasionally.
-</td></tr>
-<tr><td align="center"><b>Phase 4</b><br/>🏗️</td>
-<td>
-<b>"I build real things now"</b><br/>
-shipped ProxyMukt, Reachify, AuraFit, PlayCast. learned that "it works" and "it scales" are very different sentences.
-</td></tr>
-<tr><td align="center"><b>Phase 5</b><br/>🚀</td>
-<td>
-<b>"main character era"</b><br/>
-Global Rank 473 at ICPC 2025, 1st place at Infineon Hackathon, GATE qualified. currently: still humble, still shipping.
-</td></tr>
+<tr><td align="center"><b>LV.2</b><br/>🔥</td>
+<td><b>"why is NOTHING working"</b> — met the console. met the stack trace. learned 90% of bugs are just typos wearing a trench coat.</td></tr>
+<tr><td align="center"><b>LV.3</b><br/>🧠</td>
+<td><b>"actually learning DSA now"</b> — locked in on Codeforces and LeetCode. became CF Specialist. touched grass occasionally, reluctantly.</td></tr>
+<tr><td align="center"><b>LV.4</b><br/>🏗️</td>
+<td><b>"I build real things now"</b> — shipped ProxyMukt, Reachify, AuraFit, PlayCast. learned "it works" and "it scales" are very different sentences.</td></tr>
+<tr><td align="center"><b>LV.5</b><br/>🚀</td>
+<td><b>MAIN CHARACTER ARC</b> — Global Rank 473 at ICPC 2025, 1st place Infineon Hackathon, GATE qualified. currently: still humble, still shipping, still debugging at 2am.</td></tr>
 </table>
 
 ---
 
-## 🛠️ the stack (aka my tools of chaos)
+## 🛠️ loadout
 
 <div align="center">
 
-**languages fr fr**
+**languages**
 
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,sql&theme=dark&perline=6"/>
 
-**backend & the databases that keep my secrets**
+**backend + databases**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb,mysql,redis&theme=dark&perline=7"/>
 
-**frontend, because ugly UIs are a crime**
+**frontend**
 
 <img src="https://skillicons.dev/icons?i=react,svelte,tailwind,html,css&theme=dark&perline=5"/>
 
-**devops, or "how I learned to stop panicking about deployment"**
+**devops / cloud**
 
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,git&theme=dark&perline=7"/>
 
@@ -101,7 +112,7 @@ Global Rank 473 at ICPC 2025, 1st place at Infineon Hackathon, GATE qualified. c
 
 ---
 
-## 🚀 things I actually shipped (no bluffing, promise)
+## 🚀 side quests completed
 
 <div align="center">
 <table>
@@ -109,23 +120,23 @@ Global Rank 473 at ICPC 2025, 1st place at Infineon Hackathon, GATE qualified. c
   <td width="50%" valign="top">
 
 ### 📡 ProxyMukt
-attendance fraud, meet your match. real-time platform with **99% tracking accuracy** via triple-layer verification (GPS + QR + IP). live WebSocket sync, zero conflicting writes.
+attendance fraud, meet your match. real-time platform, **99% tracking accuracy** via triple-layer verification — GPS + QR + IP. live WebSocket sync, zero conflicting writes.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-000000?style=flat-square&logo=socketdotio&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
 
   </td>
   <td width="50%" valign="top">
 
 ### 📨 Reachify
-distributed email scheduler that does NOT lose your data, ever. fault-tolerant BullMQ queues, retry logic, full observability, dockerized end to end.
+distributed email scheduler, **zero data loss**, ever. fault-tolerant BullMQ queues, retry logic, full observability, dockerized end to end.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
+![BullMQ](https://img.shields.io/badge/BullMQ-000000?style=flat-square&logo=redis&logoColor=DC382D)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=336791)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
 
   </td>
 </tr>
@@ -133,23 +144,23 @@ distributed email scheduler that does NOT lose your data, ever. fault-tolerant B
   <td width="50%" valign="top">
 
 ### 🤖 AuraFit
-your AI gym bro, but it's a SaaS. generates personalized fitness + diet plans using the Gemini API, handles payments via Razorpay, state managed in MongoDB.
+your AI gym bro, but SaaS. generates personalized fitness + diet plans via the Gemini API. Razorpay payments, MongoDB state management.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Gemini](https://img.shields.io/badge/Gemini_API-000000?style=flat-square&logo=google&logoColor=4285F4)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248)
+![Razorpay](https://img.shields.io/badge/Razorpay-000000?style=flat-square&logo=razorpay&logoColor=ffffff)
 
   </td>
   <td width="50%" valign="top">
 
 ### 🎬 PlayCast
-video streaming backend that handles **2GB+ uploads** like it's nothing, via AWS S3 multipart. Redis-backed async transcoding, scalable delivery.
+video streaming backend handling **2GB+ uploads** like it's nothing, via AWS S3 multipart. Redis-backed async transcoding, scalable delivery.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933)
+![AWS S3](https://img.shields.io/badge/AWS_S3-000000?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=DC382D)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248)
 
   </td>
 </tr>
@@ -158,7 +169,7 @@ video streaming backend that handles **2GB+ uploads** like it's nothing, via AWS
 
 ---
 
-## 🏆 receipts (achievements, for the skeptics)
+## 🏆 achievement unlocked
 
 <div align="center">
 
@@ -172,26 +183,32 @@ video streaming backend that handles **2GB+ uploads** like it's nothing, via AWS
 
 </div>
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sumant3086&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
+
+</div>
+
 ---
 
-## 📊 the stats don't lie
+## 📊 the receipts
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sumant3086&show_icons=true&theme=radical&hide_border=true&title_color=B983FF&icon_color=7b2ff7&text_color=c9d1d9&bg_color=0d0221&rank_icon=github&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumant3086&layout=compact&theme=radical&hide_border=true&title_color=B983FF&text_color=c9d1d9&bg_color=0d0221&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sumant3086&show_icons=true&theme=synthwave&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumant3086&layout=compact&theme=synthwave&hide_border=true&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sumant3086&theme=radical&hide_border=true&fire=B983FF&ring=7b2ff7&currStreakLabel=B983FF&sideLabels=c9d1d9&dates=8b949e&mode=weekly"/>
+<img src="https://streak-stats.demolab.com?user=Sumant3086&theme=nightowl&hide_border=true&fire=ff00c8&ring=00c2ff&currStreakLabel=00c2ff&sideLabels=c9d1d9&dates=8b949e&mode=weekly"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumant3086&bg_color=0d0221&color=B983FF&line=7b2ff7&point=ffffff&area=true&hide_border=true&area_color=2d1b4e"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumant3086&bg_color=0d0221&color=00c2ff&line=ff00c8&point=ffffff&area=true&hide_border=true&area_color=1a0033"/>
 
 </div>
 
@@ -209,16 +226,16 @@ video streaming backend that handles **2GB+ uploads** like it's nothing, via AWS
 
 <div align="center">
 
-### 🤝 let's build something
+### 📡 end transmission
 
-if my work made you go "oh that's kinda fire" — drop a ⭐, it genuinely makes my day
+if this profile made you go **"okay this guy actually codes"** — drop a ⭐, it fuels the next commit
 
 <a href="https://linkedin.com/in/sumant3086">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Let's%20Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00c2ff"/>
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:2d1b4e,100:0d0221&height=130&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00c8,25:00c2ff,50:5b0e91,75:1a0033,100:000000&height=150&section=footer&animation=fadeIn"/>
 
 </div>
