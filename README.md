@@ -122,6 +122,21 @@ Also shipped: **[BuyIndiaX](https://github.com/Sumant3086/BuyIndiaX)** — MERN 
 
 ### 📊 The Numbers
 
+<!--
+  These three cards call the free public demos of github-readme-stats,
+  github-readme-streak-stats, and github-profile-trophy. Those shared
+  Vercel deployments have been getting rate-limited / paused by their
+  owners on and off since Jan 2026 (see anuraghazra/github-readme-stats
+  issues #4737, #4780, #4867) — if a card shows as a broken image, it's
+  that public demo being down, not this file. It usually comes back on
+  its own within a day or two; for a permanent fix, self-host your own
+  free instance in ~5 min:
+    stats  -> https://github.com/anuraghazra/github-readme-stats#-deploy-on-your-own
+    streak -> https://github.com/DenverCoder1/github-readme-streak-stats#deployment
+    trophy -> https://github.com/ryo-ma/github-profile-trophy#how-to-use
+  then swap the three URLs below for your own deployed domains.
+-->
+
 <table>
 <tr>
 <td width="50%">
@@ -133,11 +148,11 @@ Also shipped: **[BuyIndiaX](https://github.com/Sumant3086/BuyIndiaX)** — MERN 
 </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumant3086&bg_color=00000000&color=00F5FF&line=FF6EC7&point=FFD93D&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
-
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Sumant3086&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=2&column=4"/>
 </div>
+
+<sub>GitHub already renders your real contribution calendar natively below the README on your profile page, so a separate activity-graph widget here would just be a slower, more fragile duplicate — left out on purpose.</sub>
 
 <details>
 <summary>🐍 Want the animated contribution snake too? (2-min setup)</summary>
