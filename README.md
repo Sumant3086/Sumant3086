@@ -1,14 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:1a0033,50:3c1361,75:2f6fe0,100:00c2ff&height=260&section=header&text=SUMANT%20YADAV&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20—%20COMPETITIVE%20PROGRAMMER&descAlignY=58&descSize=15&animation=fadeIn&fontAlignX=50"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Competitive+Programmer;Systems+That+Don%27t+Fall+Over" alt="Typing SVG" />
-</a>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=700&color=FF4FD8&center=true&vCenter=true&width=700&lines=CF+Specialist+%C2%B7+1592+Rating;ICPC+2025+%C2%B7+Global+Rank+473;Infineon+Hackathon+%C2%B7+1st+Place;GATE+2026+%C2%B7+Qualified" alt="Typing SVG" />
-</a>
+<img width="100%" src="assets/header.svg"/>
 
 <br/>
 
@@ -154,8 +146,23 @@ Video streaming backend handling adaptive 2GB+ uploads via AWS S3 multipart. Red
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.zcy.dev/api?username=Sumant3086&show_icons=true&theme=dracula&hide_border=true"/>
-<img height="175em" src="https://github-readme-stats.zcy.dev/api/top-langs/?username=Sumant3086&layout=compact&theme=dracula&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Sumant3086&theme=dracula&hide_border=true&fire=ff4fd8&ring=00c2ff&currStreakLabel=00c2ff"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/Sumant3086?style=for-the-badge&color=7b2ff7&logo=github&logoColor=white&label=FOLLOWERS"/>
+
+</div>
+
+<!--
+Optional upgrade, once you've added .github/workflows/profile-assets.yml (see below)
+and it has run at least once — check the "Actions" tab for a green checkmark, then
+replace the block above with this one for the full stats + top-langs + snake:
+
+<div align="center">
+
+<img height="175em" src="https://raw.githubusercontent.com/Sumant3086/Sumant3086/main/profile/stats.svg"/>
+<img height="175em" src="https://raw.githubusercontent.com/Sumant3086/Sumant3086/main/profile/top-langs.svg"/>
 
 <br/>
 
@@ -164,12 +171,13 @@ Video streaming backend handling adaptive 2GB+ uploads via AWS S3 multipart. Red
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sumant3086/Sumant3086/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sumant3086/Sumant3086/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" width="95%" src="https://raw.githubusercontent.com/Sumant3086/Sumant3086/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sumant3086/Sumant3086/main/profile/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sumant3086/Sumant3086/main/profile/snake.svg"/>
+  <img alt="github-snake" width="95%" src="https://raw.githubusercontent.com/Sumant3086/Sumant3086/main/profile/snake-dark.svg"/>
 </picture>
 
 </div>
+-->
 
 <br/>
 
@@ -183,6 +191,6 @@ Video streaming backend handling adaptive 2GB+ uploads via AWS S3 multipart. Red
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c2ff,25:2f6fe0,50:3c1361,75:1a0033,100:000000&height=140&section=footer&animation=fadeIn"/>
+<img width="100%" src="assets/footer.svg"/>
 
 </div>
